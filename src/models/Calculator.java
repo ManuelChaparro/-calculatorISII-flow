@@ -33,7 +33,7 @@ public class Calculator {
      * @return El producto de la multiplicación.
      */
     public int multiplication(int num1, int num2){
-        return num1/num2;
+        return num1*num2;
     }
 
     /**
@@ -43,6 +43,6 @@ public class Calculator {
      * @return El resultado de la división.
      */
     public double split(int num1, int num2){
-        return num1%num2;
+        return num1/num2;
     }
 }

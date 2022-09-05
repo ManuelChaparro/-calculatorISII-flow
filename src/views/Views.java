@@ -24,7 +24,7 @@ public class Views {
      * @return Numero entero.
      */
 	public int inputNumOne() {
-		System.out.println("Ingrese xasxadasASascasd");
+		System.out.println("Ingrese el numero 1: ");
 		return Integer.parseInt(sc.next());
 	}
 	
@@ -33,7 +33,7 @@ public class Views {
      * @return Numero entero.
      */
 	public int inputNumTwo() {
-		System.out.println("IngreCCe el numero 2: ");
+		System.out.println("Ingrese el numero 2: ");
 		return Integer.parseInt(sc.next());
 	}
 	
