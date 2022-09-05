@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * Esta clase define cada uno de los metodos necesario para la salida y entrada de datos por parte del usuario. 
- * @author: Manuel C. Rojas, Luis S. Parra, Pedro J. Neira
+ * @author: Manuel Santiago. Rojas, Luis S. Parra, Pedro J. Neira
  * @version:  05/09/2022/A
  */
 

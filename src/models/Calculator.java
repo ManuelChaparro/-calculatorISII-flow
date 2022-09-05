@@ -1,7 +1,7 @@
 package models;
 /**
  * Esta clase define cada uno de los metodos usados por una calculadora (Sumar, restar, multiplicar y dividir). 
- * @author: Manuel C. Rojas, Luis S. Parra, Pedro J. Neira
+ * @author: Manuel Santiago. Rojas, Luis S. Parra, Pedro J. Neira
  * @version:  05/09/2022/A
  */
 public class Calculator {

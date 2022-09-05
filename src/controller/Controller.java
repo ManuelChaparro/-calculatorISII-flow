@@ -5,7 +5,7 @@ import views.Views;
 
 /**
  * Esta clase define los metodos que reunen a los modelos y a las vistas. 
- * @author: Manuel C. Rojas, Luis S. Parra, Pedro J. Neira
+ * @author: Manuel Santiago. Rojas, Luis S. Parra, Pedro J. Neira
  * @version:  05/09/2022/A
  */
 public class Controller {
